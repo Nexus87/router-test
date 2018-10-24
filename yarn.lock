@@ -262,6 +262,14 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@ngrx/store-devtools@^6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-6.1.0.tgz#cf65a3149628dc37badd094204484dde9ba14200"
+
+"@ngrx/store@^6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-6.1.0.tgz#5b027647a797bf027912568214b10375dd75af38"
+
 "@ngtools/webpack@7.0.2":
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.0.2.tgz#db7441757b8c412e1b08ad0b117646e911afd4bb"
@@ -4559,6 +4567,14 @@ prelude-ls@~1.1.2:
 preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
+
+primeicons@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-1.0.0.tgz#90061f168ef6227f21f0a7db8204ffa85cd27aec"
+
+primeng@^6.1.5:
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-6.1.5.tgz#915cb29ea299b1f9d299d2557410c9ab1769cb58"
 
 process-nextick-args@~1.0.6:
   version "1.0.7"

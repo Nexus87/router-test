@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MenuItem } from 'primeng/api';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,19 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
+  items: MenuItem[] = [
+    {
+      routerLink: '/',
+      label: 'Home'
+    },
+    {
+      routerLink: '/orders',
+      label: 'Orders'
+    },
+    {
+      routerLink: '/customers',
+      label: 'Customers'
+    }
+  ];
   title = 'router-test';
 }
