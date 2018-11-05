@@ -8,6 +8,11 @@ console.log('Shared init');
   imports: [
     CommonModule
   ],
-  declarations: [SharedComponent]
+  declarations: [
+    SharedComponent
+  ],
+  exports: [
+    SharedComponent
+  ],
 })
 export class SharedModule { }
